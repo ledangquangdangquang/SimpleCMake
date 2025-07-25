@@ -1,3 +1,0 @@
-/home/quang/Projects/C++/SimpleCmake/build/CMakeFiles/helloworld.dir
-/home/quang/Projects/C++/SimpleCmake/build/CMakeFiles/edit_cache.dir
-/home/quang/Projects/C++/SimpleCmake/build/CMakeFiles/rebuild_cache.dir
